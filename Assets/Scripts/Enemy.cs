@@ -9,7 +9,7 @@ public class Enemy : MonoBehaviour
 
     private int currentWaypointIndex;
 
-    public Vector3 CurrentWaypointPosition => waypoint.GetWaypointPosition(currentWaypointIndex); //보류
+   // public Vector3 CurrentWaypointPosition => waypoint.GetWaypointPosition(currentWaypointIndex); //보류
 
 
     private void Start()
